@@ -32,3 +32,9 @@
 2. Recommendations System
 3. Time series Analysis [R](http://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html), [Statistical Forecasting](http://people.duke.edu/~rnau/411home.htm)
 ### Practice
+
+
+
+
+Check out for charts
+Infogram.com
