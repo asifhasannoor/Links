@@ -1,4 +1,5 @@
 ## SHARE TOOLS ONLINE
 ### ONLINE ANALYTICAL TOOLS
 
-1. (https://www.ecosoftbd.com/)[https://www.ecosoftbd.com/]
+1. [ECOSOFTBD](https://www.ecosoftbd.com/)
+2. [AMARSTOCK](https://www.amarstock.com/)
