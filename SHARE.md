@@ -5,3 +5,4 @@
 2. [AMARSTOCK](https://www.amarstock.com/)
 3. [STOCKNOW](https://stocknow.com.bd/)
 4. [STOCK BANGLADESH](https://stockbangladesh.com/)
+5. [BIASL](http://www.biasl.net/pub/#/)
