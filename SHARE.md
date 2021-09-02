@@ -3,3 +3,4 @@
 
 1. [ECOSOFTBD](https://www.ecosoftbd.com/)
 2. [AMARSTOCK](https://www.amarstock.com/)
+3. [STOCKNOW](https://stocknow.com.bd/)
